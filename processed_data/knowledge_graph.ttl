@@ -1,0 +1,1864 @@
+@prefix ex: <http://example.org/publaynet/> .
+
+ex:PMC2429903_00000 a ex:Document ;
+    ex:contains ex:PMC2429903_00000_region_0,
+        ex:PMC2429903_00000_region_1,
+        ex:PMC2429903_00000_region_10,
+        ex:PMC2429903_00000_region_11,
+        ex:PMC2429903_00000_region_2,
+        ex:PMC2429903_00000_region_3,
+        ex:PMC2429903_00000_region_4,
+        ex:PMC2429903_00000_region_5,
+        ex:PMC2429903_00000_region_6,
+        ex:PMC2429903_00000_region_7,
+        ex:PMC2429903_00000_region_8,
+        ex:PMC2429903_00000_region_9 ;
+    ex:hasText "This document PMC2429903_00000 contains 12 regions including text, text, text." .
+
+ex:PMC2637833_00005 a ex:Document ;
+    ex:contains ex:PMC2637833_00005_region_0,
+        ex:PMC2637833_00005_region_1,
+        ex:PMC2637833_00005_region_2,
+        ex:PMC2637833_00005_region_3,
+        ex:PMC2637833_00005_region_4,
+        ex:PMC2637833_00005_region_5,
+        ex:PMC2637833_00005_region_6,
+        ex:PMC2637833_00005_region_7,
+        ex:PMC2637833_00005_region_8,
+        ex:PMC2637833_00005_region_9 ;
+    ex:hasText "This document PMC2637833_00005 contains 10 regions including text, text, text." .
+
+ex:PMC2654478_00006 a ex:Document ;
+    ex:contains ex:PMC2654478_00006_region_0,
+        ex:PMC2654478_00006_region_1,
+        ex:PMC2654478_00006_region_2,
+        ex:PMC2654478_00006_region_3,
+        ex:PMC2654478_00006_region_4,
+        ex:PMC2654478_00006_region_5,
+        ex:PMC2654478_00006_region_6,
+        ex:PMC2654478_00006_region_7,
+        ex:PMC2654478_00006_region_8,
+        ex:PMC2654478_00006_region_9 ;
+    ex:hasText "This document PMC2654478_00006 contains 10 regions including text, text, text." .
+
+ex:PMC2865005_00003 a ex:Document ;
+    ex:contains ex:PMC2865005_00003_region_0,
+        ex:PMC2865005_00003_region_1,
+        ex:PMC2865005_00003_region_2,
+        ex:PMC2865005_00003_region_3,
+        ex:PMC2865005_00003_region_4,
+        ex:PMC2865005_00003_region_5,
+        ex:PMC2865005_00003_region_6,
+        ex:PMC2865005_00003_region_7,
+        ex:PMC2865005_00003_region_8 ;
+    ex:hasText "This document PMC2865005_00003 contains 9 regions including text, text, text." .
+
+ex:PMC2962807_00004 a ex:Document ;
+    ex:contains ex:PMC2962807_00004_region_0,
+        ex:PMC2962807_00004_region_1,
+        ex:PMC2962807_00004_region_2,
+        ex:PMC2962807_00004_region_3,
+        ex:PMC2962807_00004_region_4,
+        ex:PMC2962807_00004_region_5,
+        ex:PMC2962807_00004_region_6,
+        ex:PMC2962807_00004_region_7,
+        ex:PMC2962807_00004_region_8,
+        ex:PMC2962807_00004_region_9 ;
+    ex:hasText "This document PMC2962807_00004 contains 10 regions including text, text, text." .
+
+ex:PMC3120659_00004 a ex:Document ;
+    ex:contains ex:PMC3120659_00004_region_0,
+        ex:PMC3120659_00004_region_1,
+        ex:PMC3120659_00004_region_2 ;
+    ex:hasText "This document PMC3120659_00004 contains 3 regions including text, text, table." .
+
+ex:PMC3394598_00008 a ex:Document ;
+    ex:contains ex:PMC3394598_00008_region_0,
+        ex:PMC3394598_00008_region_1,
+        ex:PMC3394598_00008_region_10,
+        ex:PMC3394598_00008_region_11,
+        ex:PMC3394598_00008_region_12,
+        ex:PMC3394598_00008_region_13,
+        ex:PMC3394598_00008_region_14,
+        ex:PMC3394598_00008_region_2,
+        ex:PMC3394598_00008_region_3,
+        ex:PMC3394598_00008_region_4,
+        ex:PMC3394598_00008_region_5,
+        ex:PMC3394598_00008_region_6,
+        ex:PMC3394598_00008_region_7,
+        ex:PMC3394598_00008_region_8,
+        ex:PMC3394598_00008_region_9 ;
+    ex:hasText "This document PMC3394598_00008 contains 15 regions including text, text, text." .
+
+ex:PMC3649202_00011 a ex:Document ;
+    ex:contains ex:PMC3649202_00011_region_0,
+        ex:PMC3649202_00011_region_1,
+        ex:PMC3649202_00011_region_10,
+        ex:PMC3649202_00011_region_2,
+        ex:PMC3649202_00011_region_3,
+        ex:PMC3649202_00011_region_4,
+        ex:PMC3649202_00011_region_5,
+        ex:PMC3649202_00011_region_6,
+        ex:PMC3649202_00011_region_7,
+        ex:PMC3649202_00011_region_8,
+        ex:PMC3649202_00011_region_9 ;
+    ex:hasText "This document PMC3649202_00011 contains 11 regions including text, text, text." .
+
+ex:PMC3709122_00007 a ex:Document ;
+    ex:contains ex:PMC3709122_00007_region_0,
+        ex:PMC3709122_00007_region_1,
+        ex:PMC3709122_00007_region_2,
+        ex:PMC3709122_00007_region_3,
+        ex:PMC3709122_00007_region_4,
+        ex:PMC3709122_00007_region_5,
+        ex:PMC3709122_00007_region_6,
+        ex:PMC3709122_00007_region_7,
+        ex:PMC3709122_00007_region_8,
+        ex:PMC3709122_00007_region_9 ;
+    ex:hasText "This document PMC3709122_00007 contains 10 regions including text, text, text." .
+
+ex:PMC3741930_00000 a ex:Document ;
+    ex:contains ex:PMC3741930_00000_region_0,
+        ex:PMC3741930_00000_region_1,
+        ex:PMC3741930_00000_region_10,
+        ex:PMC3741930_00000_region_2,
+        ex:PMC3741930_00000_region_3,
+        ex:PMC3741930_00000_region_4,
+        ex:PMC3741930_00000_region_5,
+        ex:PMC3741930_00000_region_6,
+        ex:PMC3741930_00000_region_7,
+        ex:PMC3741930_00000_region_8,
+        ex:PMC3741930_00000_region_9 ;
+    ex:hasText "This document PMC3741930_00000 contains 11 regions including text, text, text." .
+
+ex:PMC4125699_00003 a ex:Document ;
+    ex:contains ex:PMC4125699_00003_region_0,
+        ex:PMC4125699_00003_region_1,
+        ex:PMC4125699_00003_region_2,
+        ex:PMC4125699_00003_region_3 ;
+    ex:hasText "This document PMC4125699_00003 contains 4 regions including text, text, text." .
+
+ex:PMC4323233_00003 a ex:Document ;
+    ex:contains ex:PMC4323233_00003_region_0,
+        ex:PMC4323233_00003_region_1,
+        ex:PMC4323233_00003_region_2,
+        ex:PMC4323233_00003_region_3,
+        ex:PMC4323233_00003_region_4,
+        ex:PMC4323233_00003_region_5,
+        ex:PMC4323233_00003_region_6,
+        ex:PMC4323233_00003_region_7,
+        ex:PMC4323233_00003_region_8 ;
+    ex:hasText "This document PMC4323233_00003 contains 9 regions including text, text, text." .
+
+ex:PMC4366372_00020 a ex:Document ;
+    ex:contains ex:PMC4366372_00020_region_0,
+        ex:PMC4366372_00020_region_1 ;
+    ex:hasText "This document PMC4366372_00020 contains 2 regions including text, figure." .
+
+ex:PMC4517690_00005 a ex:Document ;
+    ex:contains ex:PMC4517690_00005_region_0,
+        ex:PMC4517690_00005_region_1,
+        ex:PMC4517690_00005_region_2,
+        ex:PMC4517690_00005_region_3,
+        ex:PMC4517690_00005_region_4,
+        ex:PMC4517690_00005_region_5 ;
+    ex:hasText "This document PMC4517690_00005 contains 6 regions including text, text, text." .
+
+ex:PMC4537884_00002 a ex:Document ;
+    ex:contains ex:PMC4537884_00002_region_0,
+        ex:PMC4537884_00002_region_1,
+        ex:PMC4537884_00002_region_2,
+        ex:PMC4537884_00002_region_3,
+        ex:PMC4537884_00002_region_4,
+        ex:PMC4537884_00002_region_5,
+        ex:PMC4537884_00002_region_6 ;
+    ex:hasText "This document PMC4537884_00002 contains 7 regions including text, text, text." .
+
+ex:PMC4550639_00009 a ex:Document ;
+    ex:contains ex:PMC4550639_00009_region_0,
+        ex:PMC4550639_00009_region_1,
+        ex:PMC4550639_00009_region_2,
+        ex:PMC4550639_00009_region_3,
+        ex:PMC4550639_00009_region_4,
+        ex:PMC4550639_00009_region_5 ;
+    ex:hasText "This document PMC4550639_00009 contains 6 regions including text, text, text." .
+
+ex:PMC4596151_00004 a ex:Document ;
+    ex:contains ex:PMC4596151_00004_region_0,
+        ex:PMC4596151_00004_region_1,
+        ex:PMC4596151_00004_region_10,
+        ex:PMC4596151_00004_region_2,
+        ex:PMC4596151_00004_region_3,
+        ex:PMC4596151_00004_region_4,
+        ex:PMC4596151_00004_region_5,
+        ex:PMC4596151_00004_region_6,
+        ex:PMC4596151_00004_region_7,
+        ex:PMC4596151_00004_region_8,
+        ex:PMC4596151_00004_region_9 ;
+    ex:hasText "This document PMC4596151_00004 contains 11 regions including text, text, text." .
+
+ex:PMC4743617_00001 a ex:Document ;
+    ex:contains ex:PMC4743617_00001_region_0,
+        ex:PMC4743617_00001_region_1,
+        ex:PMC4743617_00001_region_2,
+        ex:PMC4743617_00001_region_3,
+        ex:PMC4743617_00001_region_4,
+        ex:PMC4743617_00001_region_5 ;
+    ex:hasText "This document PMC4743617_00001 contains 6 regions including text, text, text." .
+
+ex:PMC4936488_00011 a ex:Document ;
+    ex:contains ex:PMC4936488_00011_region_0,
+        ex:PMC4936488_00011_region_1,
+        ex:PMC4936488_00011_region_2 ;
+    ex:hasText "This document PMC4936488_00011 contains 3 regions including text, table, title." .
+
+ex:PMC4982026_00001 a ex:Document ;
+    ex:contains ex:PMC4982026_00001_region_0,
+        ex:PMC4982026_00001_region_1,
+        ex:PMC4982026_00001_region_10,
+        ex:PMC4982026_00001_region_2,
+        ex:PMC4982026_00001_region_3,
+        ex:PMC4982026_00001_region_4,
+        ex:PMC4982026_00001_region_5,
+        ex:PMC4982026_00001_region_6,
+        ex:PMC4982026_00001_region_7,
+        ex:PMC4982026_00001_region_8,
+        ex:PMC4982026_00001_region_9 ;
+    ex:hasText "This document PMC4982026_00001 contains 11 regions including text, text, text." .
+
+ex:PMC4986346_00013 a ex:Document ;
+    ex:contains ex:PMC4986346_00013_region_0,
+        ex:PMC4986346_00013_region_1,
+        ex:PMC4986346_00013_region_2,
+        ex:PMC4986346_00013_region_3 ;
+    ex:hasText "This document PMC4986346_00013 contains 4 regions including text, text, text." .
+
+ex:PMC4991227_00003 a ex:Document ;
+    ex:contains ex:PMC4991227_00003_region_0,
+        ex:PMC4991227_00003_region_1,
+        ex:PMC4991227_00003_region_2,
+        ex:PMC4991227_00003_region_3,
+        ex:PMC4991227_00003_region_4,
+        ex:PMC4991227_00003_region_5,
+        ex:PMC4991227_00003_region_6,
+        ex:PMC4991227_00003_region_7,
+        ex:PMC4991227_00003_region_8,
+        ex:PMC4991227_00003_region_9 ;
+    ex:hasText "This document PMC4991227_00003 contains 10 regions including text, text, text." .
+
+ex:PMC5120666_00022 a ex:Document ;
+    ex:contains ex:PMC5120666_00022_region_0,
+        ex:PMC5120666_00022_region_1,
+        ex:PMC5120666_00022_region_2,
+        ex:PMC5120666_00022_region_3,
+        ex:PMC5120666_00022_region_4,
+        ex:PMC5120666_00022_region_5 ;
+    ex:hasText "This document PMC5120666_00022 contains 6 regions including text, text, text." .
+
+ex:PMC5141463_00000 a ex:Document ;
+    ex:contains ex:PMC5141463_00000_region_0,
+        ex:PMC5141463_00000_region_1,
+        ex:PMC5141463_00000_region_2,
+        ex:PMC5141463_00000_region_3,
+        ex:PMC5141463_00000_region_4,
+        ex:PMC5141463_00000_region_5,
+        ex:PMC5141463_00000_region_6,
+        ex:PMC5141463_00000_region_7,
+        ex:PMC5141463_00000_region_8 ;
+    ex:hasText "This document PMC5141463_00000 contains 9 regions including text, text, text." .
+
+ex:PMC5326487_00000 a ex:Document ;
+    ex:contains ex:PMC5326487_00000_region_0,
+        ex:PMC5326487_00000_region_1,
+        ex:PMC5326487_00000_region_2,
+        ex:PMC5326487_00000_region_3,
+        ex:PMC5326487_00000_region_4,
+        ex:PMC5326487_00000_region_5 ;
+    ex:hasText "This document PMC5326487_00000 contains 6 regions including text, text, text." .
+
+ex:PMC5429906_00004 a ex:Document ;
+    ex:contains ex:PMC5429906_00004_region_0,
+        ex:PMC5429906_00004_region_1,
+        ex:PMC5429906_00004_region_10,
+        ex:PMC5429906_00004_region_2,
+        ex:PMC5429906_00004_region_3,
+        ex:PMC5429906_00004_region_4,
+        ex:PMC5429906_00004_region_5,
+        ex:PMC5429906_00004_region_6,
+        ex:PMC5429906_00004_region_7,
+        ex:PMC5429906_00004_region_8,
+        ex:PMC5429906_00004_region_9 ;
+    ex:hasText "This document PMC5429906_00004 contains 11 regions including text, text, text." .
+
+ex:PMC5436402_00001 a ex:Document ;
+    ex:contains ex:PMC5436402_00001_region_0,
+        ex:PMC5436402_00001_region_1,
+        ex:PMC5436402_00001_region_10,
+        ex:PMC5436402_00001_region_11,
+        ex:PMC5436402_00001_region_12,
+        ex:PMC5436402_00001_region_2,
+        ex:PMC5436402_00001_region_3,
+        ex:PMC5436402_00001_region_4,
+        ex:PMC5436402_00001_region_5,
+        ex:PMC5436402_00001_region_6,
+        ex:PMC5436402_00001_region_7,
+        ex:PMC5436402_00001_region_8,
+        ex:PMC5436402_00001_region_9 ;
+    ex:hasText "This document PMC5436402_00001 contains 13 regions including text, text, text." .
+
+ex:PMC5462463_00004 a ex:Document ;
+    ex:contains ex:PMC5462463_00004_region_0,
+        ex:PMC5462463_00004_region_1,
+        ex:PMC5462463_00004_region_2,
+        ex:PMC5462463_00004_region_3,
+        ex:PMC5462463_00004_region_4,
+        ex:PMC5462463_00004_region_5 ;
+    ex:hasText "This document PMC5462463_00004 contains 6 regions including text, text, text." .
+
+ex:PMC5467671_00004 a ex:Document ;
+    ex:contains ex:PMC5467671_00004_region_0,
+        ex:PMC5467671_00004_region_1,
+        ex:PMC5467671_00004_region_10,
+        ex:PMC5467671_00004_region_11,
+        ex:PMC5467671_00004_region_12,
+        ex:PMC5467671_00004_region_13,
+        ex:PMC5467671_00004_region_2,
+        ex:PMC5467671_00004_region_3,
+        ex:PMC5467671_00004_region_4,
+        ex:PMC5467671_00004_region_5,
+        ex:PMC5467671_00004_region_6,
+        ex:PMC5467671_00004_region_7,
+        ex:PMC5467671_00004_region_8,
+        ex:PMC5467671_00004_region_9 ;
+    ex:hasText "This document PMC5467671_00004 contains 14 regions including text, text, text." .
+
+ex:PMC5498817_00003 a ex:Document ;
+    ex:contains ex:PMC5498817_00003_region_0,
+        ex:PMC5498817_00003_region_1,
+        ex:PMC5498817_00003_region_10,
+        ex:PMC5498817_00003_region_11,
+        ex:PMC5498817_00003_region_12,
+        ex:PMC5498817_00003_region_2,
+        ex:PMC5498817_00003_region_3,
+        ex:PMC5498817_00003_region_4,
+        ex:PMC5498817_00003_region_5,
+        ex:PMC5498817_00003_region_6,
+        ex:PMC5498817_00003_region_7,
+        ex:PMC5498817_00003_region_8,
+        ex:PMC5498817_00003_region_9 ;
+    ex:hasText "This document PMC5498817_00003 contains 13 regions including text, text, text." .
+
+ex:PMC5512827_00007 a ex:Document ;
+    ex:contains ex:PMC5512827_00007_region_0,
+        ex:PMC5512827_00007_region_1,
+        ex:PMC5512827_00007_region_10,
+        ex:PMC5512827_00007_region_2,
+        ex:PMC5512827_00007_region_3,
+        ex:PMC5512827_00007_region_4,
+        ex:PMC5512827_00007_region_5,
+        ex:PMC5512827_00007_region_6,
+        ex:PMC5512827_00007_region_7,
+        ex:PMC5512827_00007_region_8,
+        ex:PMC5512827_00007_region_9 ;
+    ex:hasText "This document PMC5512827_00007 contains 11 regions including text, text, text." .
+
+ex:PMC5575505_00000 a ex:Document ;
+    ex:contains ex:PMC5575505_00000_region_0,
+        ex:PMC5575505_00000_region_1,
+        ex:PMC5575505_00000_region_10,
+        ex:PMC5575505_00000_region_2,
+        ex:PMC5575505_00000_region_3,
+        ex:PMC5575505_00000_region_4,
+        ex:PMC5575505_00000_region_5,
+        ex:PMC5575505_00000_region_6,
+        ex:PMC5575505_00000_region_7,
+        ex:PMC5575505_00000_region_8,
+        ex:PMC5575505_00000_region_9 ;
+    ex:hasText "This document PMC5575505_00000 contains 11 regions including text, text, text." .
+
+ex:PMC5579150_00007 a ex:Document ;
+    ex:contains ex:PMC5579150_00007_region_0,
+        ex:PMC5579150_00007_region_1,
+        ex:PMC5579150_00007_region_2,
+        ex:PMC5579150_00007_region_3,
+        ex:PMC5579150_00007_region_4,
+        ex:PMC5579150_00007_region_5,
+        ex:PMC5579150_00007_region_6,
+        ex:PMC5579150_00007_region_7,
+        ex:PMC5579150_00007_region_8,
+        ex:PMC5579150_00007_region_9 ;
+    ex:hasText "This document PMC5579150_00007 contains 10 regions including text, text, text." .
+
+ex:PMC5580807_00019 a ex:Document ;
+    ex:contains ex:PMC5580807_00019_region_0 ;
+    ex:hasText "This document PMC5580807_00019 contains 1 regions including text." .
+
+ex:PMC5588948_00002 a ex:Document ;
+    ex:contains ex:PMC5588948_00002_region_0,
+        ex:PMC5588948_00002_region_1 ;
+    ex:hasText "This document PMC5588948_00002 contains 2 regions including text, table." .
+
+ex:PMC5592712_00002 a ex:Document ;
+    ex:contains ex:PMC5592712_00002_region_0,
+        ex:PMC5592712_00002_region_1,
+        ex:PMC5592712_00002_region_10,
+        ex:PMC5592712_00002_region_11,
+        ex:PMC5592712_00002_region_12,
+        ex:PMC5592712_00002_region_13,
+        ex:PMC5592712_00002_region_14,
+        ex:PMC5592712_00002_region_15,
+        ex:PMC5592712_00002_region_16,
+        ex:PMC5592712_00002_region_17,
+        ex:PMC5592712_00002_region_18,
+        ex:PMC5592712_00002_region_19,
+        ex:PMC5592712_00002_region_2,
+        ex:PMC5592712_00002_region_3,
+        ex:PMC5592712_00002_region_4,
+        ex:PMC5592712_00002_region_5,
+        ex:PMC5592712_00002_region_6,
+        ex:PMC5592712_00002_region_7,
+        ex:PMC5592712_00002_region_8,
+        ex:PMC5592712_00002_region_9 ;
+    ex:hasText "This document PMC5592712_00002 contains 20 regions including text, text, text." .
+
+ex:PMC5605591_00000 a ex:Document ;
+    ex:contains ex:PMC5605591_00000_region_0,
+        ex:PMC5605591_00000_region_1,
+        ex:PMC5605591_00000_region_2,
+        ex:PMC5605591_00000_region_3,
+        ex:PMC5605591_00000_region_4,
+        ex:PMC5605591_00000_region_5,
+        ex:PMC5605591_00000_region_6,
+        ex:PMC5605591_00000_region_7,
+        ex:PMC5605591_00000_region_8,
+        ex:PMC5605591_00000_region_9 ;
+    ex:hasText "This document PMC5605591_00000 contains 10 regions including text, text, text." .
+
+ex:PMC5613853_00002 a ex:Document ;
+    ex:contains ex:PMC5613853_00002_region_0,
+        ex:PMC5613853_00002_region_1,
+        ex:PMC5613853_00002_region_2,
+        ex:PMC5613853_00002_region_3,
+        ex:PMC5613853_00002_region_4,
+        ex:PMC5613853_00002_region_5,
+        ex:PMC5613853_00002_region_6,
+        ex:PMC5613853_00002_region_7,
+        ex:PMC5613853_00002_region_8 ;
+    ex:hasText "This document PMC5613853_00002 contains 9 regions including text, text, text." .
+
+ex:PMC5646182_00003 a ex:Document ;
+    ex:contains ex:PMC5646182_00003_region_0,
+        ex:PMC5646182_00003_region_1,
+        ex:PMC5646182_00003_region_2 ;
+    ex:hasText "This document PMC5646182_00003 contains 3 regions including text, text, text." .
+
+ex:PMC5706999_00003 a ex:Document ;
+    ex:contains ex:PMC5706999_00003_region_0,
+        ex:PMC5706999_00003_region_1,
+        ex:PMC5706999_00003_region_10,
+        ex:PMC5706999_00003_region_11,
+        ex:PMC5706999_00003_region_2,
+        ex:PMC5706999_00003_region_3,
+        ex:PMC5706999_00003_region_4,
+        ex:PMC5706999_00003_region_5,
+        ex:PMC5706999_00003_region_6,
+        ex:PMC5706999_00003_region_7,
+        ex:PMC5706999_00003_region_8,
+        ex:PMC5706999_00003_region_9 ;
+    ex:hasText "This document PMC5706999_00003 contains 12 regions including text, text, text." .
+
+ex:PMC5733955_00001 a ex:Document ;
+    ex:contains ex:PMC5733955_00001_region_0,
+        ex:PMC5733955_00001_region_1,
+        ex:PMC5733955_00001_region_10,
+        ex:PMC5733955_00001_region_11,
+        ex:PMC5733955_00001_region_12,
+        ex:PMC5733955_00001_region_13,
+        ex:PMC5733955_00001_region_2,
+        ex:PMC5733955_00001_region_3,
+        ex:PMC5733955_00001_region_4,
+        ex:PMC5733955_00001_region_5,
+        ex:PMC5733955_00001_region_6,
+        ex:PMC5733955_00001_region_7,
+        ex:PMC5733955_00001_region_8,
+        ex:PMC5733955_00001_region_9 ;
+    ex:hasText "This document PMC5733955_00001 contains 14 regions including text, text, text." .
+
+ex:PMC5745221_00001 a ex:Document ;
+    ex:contains ex:PMC5745221_00001_region_0,
+        ex:PMC5745221_00001_region_1,
+        ex:PMC5745221_00001_region_2,
+        ex:PMC5745221_00001_region_3,
+        ex:PMC5745221_00001_region_4,
+        ex:PMC5745221_00001_region_5 ;
+    ex:hasText "This document PMC5745221_00001 contains 6 regions including text, text, text." .
+
+ex:PMC5763423_00016 a ex:Document ;
+    ex:contains ex:PMC5763423_00016_region_0,
+        ex:PMC5763423_00016_region_1,
+        ex:PMC5763423_00016_region_2,
+        ex:PMC5763423_00016_region_3,
+        ex:PMC5763423_00016_region_4,
+        ex:PMC5763423_00016_region_5,
+        ex:PMC5763423_00016_region_6,
+        ex:PMC5763423_00016_region_7 ;
+    ex:hasText "This document PMC5763423_00016 contains 8 regions including text, text, text." .
+
+ex:PMC5870676_00001 a ex:Document ;
+    ex:contains ex:PMC5870676_00001_region_0,
+        ex:PMC5870676_00001_region_1,
+        ex:PMC5870676_00001_region_10,
+        ex:PMC5870676_00001_region_11,
+        ex:PMC5870676_00001_region_12,
+        ex:PMC5870676_00001_region_13,
+        ex:PMC5870676_00001_region_14,
+        ex:PMC5870676_00001_region_15,
+        ex:PMC5870676_00001_region_16,
+        ex:PMC5870676_00001_region_17,
+        ex:PMC5870676_00001_region_18,
+        ex:PMC5870676_00001_region_19,
+        ex:PMC5870676_00001_region_2,
+        ex:PMC5870676_00001_region_20,
+        ex:PMC5870676_00001_region_3,
+        ex:PMC5870676_00001_region_4,
+        ex:PMC5870676_00001_region_5,
+        ex:PMC5870676_00001_region_6,
+        ex:PMC5870676_00001_region_7,
+        ex:PMC5870676_00001_region_8,
+        ex:PMC5870676_00001_region_9 ;
+    ex:hasText "This document PMC5870676_00001 contains 21 regions including text, text, text." .
+
+ex:PMC5947618_00010 a ex:Document ;
+    ex:contains ex:PMC5947618_00010_region_0,
+        ex:PMC5947618_00010_region_1,
+        ex:PMC5947618_00010_region_2,
+        ex:PMC5947618_00010_region_3,
+        ex:PMC5947618_00010_region_4 ;
+    ex:hasText "This document PMC5947618_00010 contains 5 regions including text, text, text." .
+
+ex:PMC5986835_00005 a ex:Document ;
+    ex:contains ex:PMC5986835_00005_region_0,
+        ex:PMC5986835_00005_region_1,
+        ex:PMC5986835_00005_region_2,
+        ex:PMC5986835_00005_region_3,
+        ex:PMC5986835_00005_region_4 ;
+    ex:hasText "This document PMC5986835_00005 contains 5 regions including text, text, text." .
+
+ex:PMC6020783_00008 a ex:Document ;
+    ex:contains ex:PMC6020783_00008_region_0,
+        ex:PMC6020783_00008_region_1,
+        ex:PMC6020783_00008_region_10,
+        ex:PMC6020783_00008_region_11,
+        ex:PMC6020783_00008_region_2,
+        ex:PMC6020783_00008_region_3,
+        ex:PMC6020783_00008_region_4,
+        ex:PMC6020783_00008_region_5,
+        ex:PMC6020783_00008_region_6,
+        ex:PMC6020783_00008_region_7,
+        ex:PMC6020783_00008_region_8,
+        ex:PMC6020783_00008_region_9 ;
+    ex:hasText "This document PMC6020783_00008 contains 12 regions including text, text, text." .
+
+ex:PMC6035002_00013 a ex:Document ;
+    ex:contains ex:PMC6035002_00013_region_0,
+        ex:PMC6035002_00013_region_1,
+        ex:PMC6035002_00013_region_2 ;
+    ex:hasText "This document PMC6035002_00013 contains 3 regions including text, table, title." .
+
+ex:PMC6061470_00004 a ex:Document ;
+    ex:contains ex:PMC6061470_00004_region_0,
+        ex:PMC6061470_00004_region_1,
+        ex:PMC6061470_00004_region_2 ;
+    ex:hasText "This document PMC6061470_00004 contains 3 regions including text, text, table." .
+
+ex:PMC6104654_00002 a ex:Document ;
+    ex:contains ex:PMC6104654_00002_region_0,
+        ex:PMC6104654_00002_region_1,
+        ex:PMC6104654_00002_region_2,
+        ex:PMC6104654_00002_region_3 ;
+    ex:hasText "This document PMC6104654_00002 contains 4 regions including text, text, text." .
+
+ex:PMC2429903_00000_region_0 a ex:Text ;
+    ex:hasBBox "[111.84, 362.21, 385.55, 58.35]" .
+
+ex:PMC2429903_00000_region_1 a ex:Text ;
+    ex:hasBBox "[111.84, 425.94, 385.55, 34.88]" .
+
+ex:PMC2429903_00000_region_10 a ex:Title ;
+    ex:hasBBox "[111.84, 346.93, 43.92, 12.66]" .
+
+ex:PMC2429903_00000_region_11 a ex:Title ;
+    ex:hasBBox "[55.14, 625.99, 60.3, 12.66]" .
+
+ex:PMC2429903_00000_region_2 a ex:Text ;
+    ex:hasBBox "[111.84, 466.2, 385.65, 81.86]" .
+
+ex:PMC2429903_00000_region_3 a ex:Text ;
+    ex:hasBBox "[111.84, 553.43, 385.6, 34.88]" .
+
+ex:PMC2429903_00000_region_4 a ex:Text ;
+    ex:hasBBox "[55.14, 638.43, 240.98, 69.87]" .
+
+ex:PMC2429903_00000_region_5 a ex:Text ;
+    ex:hasBBox "[313.08, 626.68, 240.99, 105.09]" .
+
+ex:PMC2429903_00000_region_6 a ex:Text ;
+    ex:hasBBox "[55.14, 294.55, 492.36, 18.74]" .
+
+ex:PMC2429903_00000_region_7 a ex:Text ;
+    ex:hasBBox "[55.14, 174.12, 491.93, 9.14]" .
+
+ex:PMC2429903_00000_region_8 a ex:Text ;
+    ex:hasBBox "[55.14, 137.37, 258.04, 17.18]" .
+
+ex:PMC2429903_00000_region_9 a ex:Title ;
+    ex:hasBBox "[55.14, 100.53, 500.01, 36.82]" .
+
+ex:PMC2637833_00005_region_0 a ex:Text ;
+    ex:hasBBox "[55.14, 84.69, 240.99, 81.63]" .
+
+ex:PMC2637833_00005_region_1 a ex:Text ;
+    ex:hasBBox "[55.14, 178.66, 240.98, 93.39]" .
+
+ex:PMC2637833_00005_region_2 a ex:Text ;
+    ex:hasBBox "[55.14, 284.44, 240.99, 128.61]" .
+
+ex:PMC2637833_00005_region_3 a ex:Text ;
+    ex:hasBBox "[313.08, 84.7, 240.99, 105.09]" .
+
+ex:PMC2637833_00005_region_4 a ex:Text ;
+    ex:hasBBox "[55.14, 425.44, 240.98, 105.15]" .
+
+ex:PMC2637833_00005_region_5 a ex:Text ;
+    ex:hasBBox "[313.08, 202.18, 240.99, 128.61]" .
+
+ex:PMC2637833_00005_region_6 a ex:Text ;
+    ex:hasBBox "[313.08, 354.93, 240.99, 152.13]" .
+
+ex:PMC2637833_00005_region_7 a ex:Text ;
+    ex:hasBBox "[55.14, 545.33, 211.17, 9.41]" .
+
+ex:PMC2637833_00005_region_8 a ex:Table ;
+    ex:hasBBox "[55.14, 561.36, 498.9, 167.4]" .
+
+ex:PMC2637833_00005_region_9 a ex:Title ;
+    ex:hasBBox "[313.08, 342.49, 236.39, 12.66]" .
+
+ex:PMC2654478_00006_region_0 a ex:Text ;
+    ex:hasBBox "[48.19, 65.98, 227.15, 104.51]" .
+
+ex:PMC2654478_00006_region_1 a ex:Text ;
+    ex:hasBBox "[48.19, 173.58, 227.16, 271.92]" .
+
+ex:PMC2654478_00006_region_2 a ex:Text ;
+    ex:hasBBox "[48.19, 448.54, 227.15, 92.6]" .
+
+ex:PMC2654478_00006_region_3 a ex:Text ;
+    ex:hasBBox "[299.22, 65.96, 227.17, 92.6]" .
+
+ex:PMC2654478_00006_region_4 a ex:Text ;
+    ex:hasBBox "[48.19, 544.18, 227.16, 176.28]" .
+
+ex:PMC2654478_00006_region_5 a ex:Text ;
+    ex:hasBBox "[299.22, 197.39, 227.19, 188.18]" .
+
+ex:PMC2654478_00006_region_6 a ex:Text ;
+    ex:hasBBox "[299.22, 388.67, 227.16, 104.51]" .
+
+ex:PMC2654478_00006_region_7 a ex:Text ;
+    ex:hasBBox "[299.23, 521.91, 136.49, 7.88]" .
+
+ex:PMC2654478_00006_region_8 a ex:Table ;
+    ex:hasBBox "[299.23, 533.94, 227.21, 183.97]" .
+
+ex:PMC2654478_00006_region_9 a ex:Title ;
+    ex:hasBBox "[299.23, 178.73, 107.44, 9.85]" .
+
+ex:PMC2865005_00003_region_0 a ex:Text ;
+    ex:hasBBox "[70.87, 89.43, 220.13, 75.99]" .
+
+ex:PMC2865005_00003_region_1 a ex:Text ;
+    ex:hasBBox "[70.87, 167.61, 220.12, 89.08]" .
+
+ex:PMC2865005_00003_region_2 a ex:Text ;
+    ex:hasBBox "[70.87, 258.94, 220.12, 167.26]" .
+
+ex:PMC2865005_00003_region_3 a ex:Text ;
+    ex:hasBBox "[306.14, 89.43, 220.12, 206.38]" .
+
+ex:PMC2865005_00003_region_4 a ex:Text ;
+    ex:hasBBox "[306.14, 324.14, 220.12, 102.07]" .
+
+ex:PMC2865005_00003_region_5 a ex:Text ;
+    ex:hasBBox "[51.73, 755.8, 459.24, 10.82]" .
+
+ex:PMC2865005_00003_region_6 a ex:Figure ;
+    ex:hasBBox "[149.12, 452.25, 292.19, 275.35]" .
+
+ex:PMC2865005_00003_region_7 a ex:Title ;
+    ex:hasBBox "[306.14, 310.26, 100.59, 11.0]" .
+
+ex:PMC2865005_00003_region_8 a ex:Title ;
+    ex:hasBBox "[51.82, 740.64, 39.87, 11.15]" .
+
+ex:PMC2962807_00004_region_0 a ex:Text ;
+    ex:hasBBox "[68.77, 100.14, 227.13, 93.04]" .
+
+ex:PMC2962807_00004_region_1 a ex:Text ;
+    ex:hasBBox "[68.77, 240.63, 227.21, 105.0]" .
+
+ex:PMC2962807_00004_region_2 a ex:Text ;
+    ex:hasBBox "[313.8, 71.29, 227.18, 21.32]" .
+
+ex:PMC2962807_00004_region_3 a ex:Text ;
+    ex:hasBBox "[68.77, 382.13, 227.14, 320.15]" .
+
+ex:PMC2962807_00004_region_4 a ex:Text ;
+    ex:hasBBox "[313.79, 95.15, 227.27, 356.1]" .
+
+ex:PMC2962807_00004_region_5 a ex:Text ;
+    ex:hasBBox "[313.8, 453.85, 227.18, 140.83]" .
+
+ex:PMC2962807_00004_region_6 a ex:Text ;
+    ex:hasBBox "[313.8, 597.28, 227.18, 105.0]" .
+
+ex:PMC2962807_00004_region_7 a ex:Title ;
+    ex:hasBBox "[68.27, 69.55, 202.47, 22.77]" .
+
+ex:PMC2962807_00004_region_8 a ex:Title ;
+    ex:hasBBox "[68.77, 210.04, 224.75, 22.72]" .
+
+ex:PMC2962807_00004_region_9 a ex:Title ;
+    ex:hasBBox "[68.77, 361.64, 56.92, 12.75]" .
+
+ex:PMC3120659_00004_region_0 a ex:Text ;
+    ex:hasBBox "[63.44, 66.69, 621.5, 10.92]" .
+
+ex:PMC3120659_00004_region_1 a ex:Text ;
+    ex:hasBBox "[63.44, 495.82, 640.99, 16.7]" .
+
+ex:PMC3120659_00004_region_2 a ex:Table ;
+    ex:hasBBox "[63.43, 79.7, 641.01, 414.42]" .
+
+ex:PMC3394598_00008_region_0 a ex:Text ;
+    ex:hasBBox "[55.2, 80.83, 238.82, 253.74]" .
+
+ex:PMC3394598_00008_region_1 a ex:Text ;
+    ex:hasBBox "[55.2, 333.79, 238.82, 88.74]" .
+
+ex:PMC3394598_00008_region_10 a ex:List ;
+    ex:hasBBox "[318.0, 147.37, 238.81, 66.12]" .
+
+ex:PMC3394598_00008_region_11 a ex:Title ;
+    ex:hasBBox "[55.2, 432.49, 123.71, 12.11]" .
+
+ex:PMC3394598_00008_region_12 a ex:Title ;
+    ex:hasBBox "[55.2, 609.14, 124.66, 11.39]" .
+
+ex:PMC3394598_00008_region_13 a ex:Title ;
+    ex:hasBBox "[318.0, 433.1, 75.36, 11.39]" .
+
+ex:PMC3394598_00008_region_14 a ex:Title ;
+    ex:hasBBox "[318.0, 608.63, 86.85, 11.9]" .
+
+ex:PMC3394598_00008_region_2 a ex:Text ;
+    ex:hasBBox "[55.2, 455.41, 238.82, 143.16]" .
+
+ex:PMC3394598_00008_region_3 a ex:Text ;
+    ex:hasBBox "[55.2, 619.86, 238.86, 77.71]" .
+
+ex:PMC3394598_00008_region_4 a ex:Text ;
+    ex:hasBBox "[318.0, 81.37, 238.8, 55.2]" .
+
+ex:PMC3394598_00008_region_5 a ex:Text ;
+    ex:hasBBox "[55.2, 697.33, 238.81, 33.24]" .
+
+ex:PMC3394598_00008_region_6 a ex:Text ;
+    ex:hasBBox "[318.0, 224.41, 238.81, 110.16]" .
+
+ex:PMC3394598_00008_region_7 a ex:Text ;
+    ex:hasBBox "[318.0, 334.33, 238.8, 88.2]" .
+
+ex:PMC3394598_00008_region_8 a ex:Text ;
+    ex:hasBBox "[318.0, 443.81, 238.82, 154.76]" .
+
+ex:PMC3394598_00008_region_9 a ex:Text ;
+    ex:hasBBox "[318.0, 619.87, 238.81, 110.7]" .
+
+ex:PMC3649202_00011_region_0 a ex:Text ;
+    ex:hasBBox "[50.58, 336.33, 240.22, 81.64]" .
+
+ex:PMC3649202_00011_region_1 a ex:Text ;
+    ex:hasBBox "[50.58, 430.57, 240.16, 149.98]" .
+
+ex:PMC3649202_00011_region_10 a ex:Title ;
+    ex:hasBBox "[308.61, 335.85, 240.12, 13.57]" .
+
+ex:PMC3649202_00011_region_2 a ex:Text ;
+    ex:hasBBox "[50.58, 593.14, 240.15, 149.98]" .
+
+ex:PMC3649202_00011_region_3 a ex:Text ;
+    ex:hasBBox "[308.61, 89.91, 240.14, 229.56]" .
+
+ex:PMC3649202_00011_region_4 a ex:Text ;
+    ex:hasBBox "[308.61, 347.35, 240.18, 183.96]" .
+
+ex:PMC3649202_00011_region_5 a ex:Text ;
+    ex:hasBBox "[308.61, 547.66, 240.14, 150.01]" .
+
+ex:PMC3649202_00011_region_6 a ex:Text ;
+    ex:hasBBox "[308.61, 695.6, 240.13, 47.54]" .
+
+ex:PMC3649202_00011_region_7 a ex:Text ;
+    ex:hasBBox "[50.58, 267.69, 240.15, 43.48]" .
+
+ex:PMC3649202_00011_region_8 a ex:Figure ;
+    ex:hasBBox "[56.32, 71.03, 225.88, 190.0]" .
+
+ex:PMC3649202_00011_region_9 a ex:Title ;
+    ex:hasBBox "[308.61, 70.02, 195.52, 13.57]" .
+
+ex:PMC3709122_00007_region_0 a ex:Text ;
+    ex:hasBBox "[48.47, 55.37, 241.68, 123.81]" .
+
+ex:PMC3709122_00007_region_1 a ex:Text ;
+    ex:hasBBox "[48.47, 181.4, 241.68, 467.53]" .
+
+ex:PMC3709122_00007_region_2 a ex:Text ;
+    ex:hasBBox "[308.58, 54.95, 241.64, 158.58]" .
+
+ex:PMC3709122_00007_region_3 a ex:Text ;
+    ex:hasBBox "[48.47, 674.05, 241.64, 43.59]" .
+
+ex:PMC3709122_00007_region_4 a ex:Text ;
+    ex:hasBBox "[308.58, 215.74, 241.64, 169.67]" .
+
+ex:PMC3709122_00007_region_5 a ex:Text ;
+    ex:hasBBox "[308.58, 410.54, 241.64, 249.84]" .
+
+ex:PMC3709122_00007_region_6 a ex:Text ;
+    ex:hasBBox "[308.58, 696.95, 241.62, 20.69]" .
+
+ex:PMC3709122_00007_region_7 a ex:Title ;
+    ex:hasBBox "[48.47, 662.54, 119.52, 9.24]" .
+
+ex:PMC3709122_00007_region_8 a ex:Title ;
+    ex:hasBBox "[308.58, 399.02, 86.99, 9.24]" .
+
+ex:PMC3709122_00007_region_9 a ex:Title ;
+    ex:hasBBox "[308.58, 681.88, 82.43, 10.73]" .
+
+ex:PMC3741930_00000_region_0 a ex:Text ;
+    ex:hasBBox "[86.7, 405.37, 462.37, 74.86]" .
+
+ex:PMC3741930_00000_region_1 a ex:Text ;
+    ex:hasBBox "[50.58, 523.13, 240.14, 127.11]" .
+
+ex:PMC3741930_00000_region_10 a ex:Title ;
+    ex:hasBBox "[50.58, 666.54, 103.66, 12.88]" .
+
+ex:PMC3741930_00000_region_2 a ex:Text ;
+    ex:hasBBox "[308.61, 503.24, 240.15, 240.79]" .
+
+ex:PMC3741930_00000_region_3 a ex:Text ;
+    ex:hasBBox "[50.58, 685.6, 240.12, 58.91]" .
+
+ex:PMC3741930_00000_region_4 a ex:Text ;
+    ex:hasBBox "[86.7, 346.69, 160.55, 12.11]" .
+
+ex:PMC3741930_00000_region_5 a ex:Text ;
+    ex:hasBBox "[86.7, 366.04, 462.26, 33.02]" .
+
+ex:PMC3741930_00000_region_6 a ex:Text ;
+    ex:hasBBox "[86.7, 265.74, 367.83, 34.73]" .
+
+ex:PMC3741930_00000_region_7 a ex:Text ;
+    ex:hasBBox "[86.7, 231.14, 303.89, 27.37]" .
+
+ex:PMC3741930_00000_region_8 a ex:Title ;
+    ex:hasBBox "[50.58, 158.33, 486.06, 39.24]" .
+
+ex:PMC3741930_00000_region_9 a ex:Title ;
+    ex:hasBBox "[50.58, 504.06, 78.02, 12.88]" .
+
+ex:PMC4125699_00003_region_0 a ex:Text ;
+    ex:hasBBox "[56.69, 556.54, 233.91, 178.89]" .
+
+ex:PMC4125699_00003_region_1 a ex:Text ;
+    ex:hasBBox "[304.72, 556.29, 233.96, 179.14]" .
+
+ex:PMC4125699_00003_region_2 a ex:Text ;
+    ex:hasBBox "[62.7, 498.79, 468.34, 39.9]" .
+
+ex:PMC4125699_00003_region_3 a ex:Figure ;
+    ex:hasBBox "[56.69, 90.33, 481.89, 403.98]" .
+
+ex:PMC4323233_00003_region_0 a ex:Text ;
+    ex:hasBBox "[56.69, 88.54, 233.95, 142.89]" .
+
+ex:PMC4323233_00003_region_1 a ex:Text ;
+    ex:hasBBox "[56.69, 232.53, 233.86, 178.89]" .
+
+ex:PMC4323233_00003_region_2 a ex:Text ;
+    ex:hasBBox "[56.69, 436.52, 233.94, 274.93]" .
+
+ex:PMC4323233_00003_region_3 a ex:Text ;
+    ex:hasBBox "[304.72, 88.53, 233.91, 310.87]" .
+
+ex:PMC4323233_00003_region_4 a ex:Text ;
+    ex:hasBBox "[56.69, 712.49, 233.81, 22.94]" .
+
+ex:PMC4323233_00003_region_5 a ex:Text ;
+    ex:hasBBox "[304.72, 424.5, 233.94, 166.93]" .
+
+ex:PMC4323233_00003_region_6 a ex:Text ;
+    ex:hasBBox "[304.72, 592.53, 233.85, 142.89]" .
+
+ex:PMC4323233_00003_region_7 a ex:Title ;
+    ex:hasBBox "[56.69, 424.52, 59.95, 10.44]" .
+
+ex:PMC4323233_00003_region_8 a ex:Title ;
+    ex:hasBBox "[304.72, 412.55, 52.67, 10.44]" .
+
+ex:PMC4366372_00020_region_0 a ex:Text ;
+    ex:hasBBox "[150.0, 346.83, 373.4, 261.87]" .
+
+ex:PMC4366372_00020_region_1 a ex:Figure ;
+    ex:hasBBox "[192.05, 62.0, 287.91, 272.88]" .
+
+ex:PMC4517690_00005_region_0 a ex:Text ;
+    ex:hasBBox "[150.0, 61.41, 359.15, 25.16]" .
+
+ex:PMC4517690_00005_region_1 a ex:Text ;
+    ex:hasBBox "[150.0, 99.26, 372.94, 95.52]" .
+
+ex:PMC4517690_00005_region_2 a ex:Text ;
+    ex:hasBBox "[150.0, 231.62, 373.57, 207.3]" .
+
+ex:PMC4517690_00005_region_3 a ex:Text ;
+    ex:hasBBox "[150.0, 451.76, 374.11, 165.44]" .
+
+ex:PMC4517690_00005_region_4 a ex:Text ;
+    ex:hasBBox "[150.0, 629.85, 367.67, 53.5]" .
+
+ex:PMC4517690_00005_region_5 a ex:Title ;
+    ex:hasBBox "[90.0, 208.82, 77.36, 14.28]" .
+
+ex:PMC4537884_00002_region_0 a ex:Text ;
+    ex:hasBBox "[45.35, 57.34, 248.05, 124.1]" .
+
+ex:PMC4537884_00002_region_1 a ex:Text ;
+    ex:hasBBox "[311.36, 57.34, 248.11, 51.53]" .
+
+ex:PMC4537884_00002_region_2 a ex:Text ;
+    ex:hasBBox "[45.35, 181.33, 248.11, 72.28]" .
+
+ex:PMC4537884_00002_region_3 a ex:Text ;
+    ex:hasBBox "[311.36, 108.76, 248.06, 144.85]" .
+
+ex:PMC4537884_00002_region_4 a ex:Text ;
+    ex:hasBBox "[49.32, 276.31, 475.65, 8.97]" .
+
+ex:PMC4537884_00002_region_5 a ex:Text ;
+    ex:hasBBox "[49.32, 703.15, 506.07, 26.37]" .
+
+ex:PMC4537884_00002_region_6 a ex:Table ;
+    ex:hasBBox "[48.3, 289.09, 508.14, 411.19]" .
+
+ex:PMC4550639_00009_region_0 a ex:Text ;
+    ex:hasBBox "[51.02, 57.81, 337.38, 46.68]" .
+
+ex:PMC4550639_00009_region_1 a ex:Text ;
+    ex:hasBBox "[51.02, 105.67, 337.38, 118.42]" .
+
+ex:PMC4550639_00009_region_2 a ex:Text ;
+    ex:hasBBox "[51.02, 225.21, 337.41, 70.61]" .
+
+ex:PMC4550639_00009_region_3 a ex:Text ;
+    ex:hasBBox "[51.02, 332.82, 337.41, 130.31]" .
+
+ex:PMC4550639_00009_region_4 a ex:Text ;
+    ex:hasBBox "[51.01, 464.31, 337.42, 154.24]" .
+
+ex:PMC4550639_00009_region_5 a ex:Title ;
+    ex:hasBBox "[51.02, 308.85, 39.95, 10.89]" .
+
+ex:PMC4596151_00004_region_0 a ex:Text ;
+    ex:hasBBox "[42.52, 325.6, 251.07, 62.07]" .
+
+ex:PMC4596151_00004_region_1 a ex:Text ;
+    ex:hasBBox "[42.52, 388.31, 251.15, 187.68]" .
+
+ex:PMC4596151_00004_region_10 a ex:Title ;
+    ex:hasBBox "[42.52, 588.05, 53.94, 9.54]" .
+
+ex:PMC4596151_00004_region_2 a ex:Text ;
+    ex:hasBBox "[42.52, 608.72, 251.15, 93.53]" .
+
+ex:PMC4596151_00004_region_3 a ex:Text ;
+    ex:hasBBox "[311.52, 325.37, 251.11, 104.13]" .
+
+ex:PMC4596151_00004_region_4 a ex:Text ;
+    ex:hasBBox "[42.52, 702.66, 251.07, 41.42]" .
+
+ex:PMC4596151_00004_region_5 a ex:Text ;
+    ex:hasBBox "[311.52, 430.19, 251.13, 229.49]" .
+
+ex:PMC4596151_00004_region_6 a ex:Text ;
+    ex:hasBBox "[311.53, 660.31, 251.03, 30.71]" .
+
+ex:PMC4596151_00004_region_7 a ex:Text ;
+    ex:hasBBox "[311.53, 718.62, 251.13, 25.13]" .
+
+ex:PMC4596151_00004_region_8 a ex:Text ;
+    ex:hasBBox "[42.52, 278.72, 519.96, 16.43]" .
+
+ex:PMC4596151_00004_region_9 a ex:Figure ;
+    ex:hasBBox "[139.52, 67.03, 326.13, 203.02]" .
+
+ex:PMC4743617_00001_region_0 a ex:Text ;
+    ex:hasBBox "[59.98, 51.51, 322.23, 24.29]" .
+
+ex:PMC4743617_00001_region_1 a ex:Text ;
+    ex:hasBBox "[59.98, 77.53, 322.23, 76.21]" .
+
+ex:PMC4743617_00001_region_2 a ex:Text ;
+    ex:hasBBox "[59.99, 155.54, 322.24, 154.21]" .
+
+ex:PMC4743617_00001_region_3 a ex:Text ;
+    ex:hasBBox "[60.0, 311.48, 322.22, 102.29]" .
+
+ex:PMC4743617_00001_region_4 a ex:Text ;
+    ex:hasBBox "[60.01, 415.5, 322.22, 89.25]" .
+
+ex:PMC4743617_00001_region_5 a ex:Text ;
+    ex:hasBBox "[60.0, 506.48, 322.23, 102.23]" .
+
+ex:PMC4936488_00011_region_0 a ex:Text ;
+    ex:hasBBox "[78.0, 97.41, 369.88, 11.16]" .
+
+ex:PMC4936488_00011_region_1 a ex:Table ;
+    ex:hasBBox "[77.5, 119.5, 445.0, 603.64]" .
+
+ex:PMC4936488_00011_region_2 a ex:Title ;
+    ex:hasBBox "[284.9, 79.46, 30.2, 10.71]" .
+
+ex:PMC4982026_00001_region_0 a ex:Text ;
+    ex:hasBBox "[38.83, 74.12, 251.16, 108.85]" .
+
+ex:PMC4982026_00001_region_1 a ex:Text ;
+    ex:hasBBox "[38.83, 238.47, 251.16, 130.79]" .
+
+ex:PMC4982026_00001_region_10 a ex:Title ;
+    ex:hasBBox "[307.84, 333.04, 101.3, 8.86]" .
+
+ex:PMC4982026_00001_region_2 a ex:Text ;
+    ex:hasBBox "[307.84, 73.75, 251.17, 241.58]" .
+
+ex:PMC4982026_00001_region_3 a ex:Text ;
+    ex:hasBBox "[38.83, 402.88, 251.17, 207.5]" .
+
+ex:PMC4982026_00001_region_4 a ex:Text ;
+    ex:hasBBox "[307.84, 348.06, 251.17, 262.32]" .
+
+ex:PMC4982026_00001_region_5 a ex:Text ;
+    ex:hasBBox "[38.83, 624.72, 520.14, 18.15]" .
+
+ex:PMC4982026_00001_region_6 a ex:Table ;
+    ex:hasBBox "[38.83, 648.12, 520.24, 102.56]" .
+
+ex:PMC4982026_00001_region_7 a ex:Title ;
+    ex:hasBBox "[38.83, 206.25, 101.64, 9.84]" .
+
+ex:PMC4982026_00001_region_8 a ex:Title ;
+    ex:hasBBox "[38.83, 223.46, 46.67, 8.86]" .
+
+ex:PMC4982026_00001_region_9 a ex:Title ;
+    ex:hasBBox "[38.84, 387.86, 88.74, 8.86]" .
+
+ex:PMC4986346_00013_region_0 a ex:Text ;
+    ex:hasBBox "[304.72, 86.94, 233.94, 418.87]" .
+
+ex:PMC4986346_00013_region_1 a ex:Text ;
+    ex:hasBBox "[56.69, 86.96, 233.95, 646.88]" .
+
+ex:PMC4986346_00013_region_2 a ex:Text ;
+    ex:hasBBox "[304.72, 530.92, 233.84, 202.93]" .
+
+ex:PMC4986346_00013_region_3 a ex:Title ;
+    ex:hasBBox "[304.72, 518.97, 142.25, 10.44]" .
+
+ex:PMC4991227_00003_region_0 a ex:Text ;
+    ex:hasBBox "[313.74, 51.71, 235.78, 50.59]" .
+
+ex:PMC4991227_00003_region_1 a ex:Text ;
+    ex:hasBBox "[59.98, 363.82, 235.83, 154.6]" .
+
+ex:PMC4991227_00003_region_2 a ex:Text ;
+    ex:hasBBox "[313.74, 103.68, 235.76, 89.59]" .
+
+ex:PMC4991227_00003_region_3 a ex:Text ;
+    ex:hasBBox "[313.74, 194.72, 235.76, 102.56]" .
+
+ex:PMC4991227_00003_region_4 a ex:Text ;
+    ex:hasBBox "[313.74, 298.67, 235.78, 219.56]" .
+
+ex:PMC4991227_00003_region_5 a ex:Text ;
+    ex:hasBBox "[60.04, 50.43, 235.74, 22.63]" .
+
+ex:PMC4991227_00003_region_6 a ex:Text ;
+    ex:hasBBox "[59.98, 544.21, 489.43, 22.32]" .
+
+ex:PMC4991227_00003_region_7 a ex:Text ;
+    ex:hasBBox "[60.04, 331.74, 230.57, 9.23]" .
+
+ex:PMC4991227_00003_region_8 a ex:Table ;
+    ex:hasBBox "[60.03, 74.11, 235.79, 256.7]" .
+
+ex:PMC4991227_00003_region_9 a ex:Table ;
+    ex:hasBBox "[59.98, 567.57, 489.49, 167.08]" .
+
+ex:PMC5120666_00022_region_0 a ex:Text ;
+    ex:hasBBox "[56.69, 88.54, 233.89, 310.87]" .
+
+ex:PMC5120666_00022_region_1 a ex:Text ;
+    ex:hasBBox "[56.69, 400.51, 233.92, 214.89]" .
+
+ex:PMC5120666_00022_region_2 a ex:Text ;
+    ex:hasBBox "[304.72, 88.54, 233.94, 298.91]" .
+
+ex:PMC5120666_00022_region_3 a ex:Text ;
+    ex:hasBBox "[56.69, 640.5, 233.85, 94.93]" .
+
+ex:PMC5120666_00022_region_4 a ex:Text ;
+    ex:hasBBox "[304.72, 388.49, 233.92, 346.93]" .
+
+ex:PMC5120666_00022_region_5 a ex:Title ;
+    ex:hasBBox "[56.69, 628.65, 35.5, 10.35]" .
+
+ex:PMC5141463_00000_region_0 a ex:Text ;
+    ex:hasBBox "[56.69, 303.88, 210.34, 118.64]" .
+
+ex:PMC5141463_00000_region_1 a ex:Text ;
+    ex:hasBBox "[56.69, 435.86, 210.36, 154.63]" .
+
+ex:PMC5141463_00000_region_2 a ex:Text ;
+    ex:hasBBox "[56.69, 603.83, 210.34, 94.64]" .
+
+ex:PMC5141463_00000_region_3 a ex:Text ;
+    ex:hasBBox "[287.72, 303.8, 210.34, 202.62]" .
+
+ex:PMC5141463_00000_region_4 a ex:Text ;
+    ex:hasBBox "[56.69, 711.81, 208.35, 22.66]" .
+
+ex:PMC5141463_00000_region_5 a ex:Text ;
+    ex:hasBBox "[287.72, 519.76, 210.38, 154.63]" .
+
+ex:PMC5141463_00000_region_6 a ex:Text ;
+    ex:hasBBox "[287.72, 687.73, 206.66, 46.66]" .
+
+ex:PMC5141463_00000_region_7 a ex:Title ;
+    ex:hasBBox "[56.69, 128.84, 210.8, 66.65]" .
+
+ex:PMC5141463_00000_region_8 a ex:Text ;
+    ex:hasBBox "[287.72, 135.64, 131.21, 12.14]" .
+
+ex:PMC5326487_00000_region_0 a ex:Text ;
+    ex:hasBBox "[85.08, 352.6, 428.43, 291.81]" .
+
+ex:PMC5326487_00000_region_1 a ex:Text ;
+    ex:hasBBox "[85.08, 656.08, 372.03, 15.93]" .
+
+ex:PMC5326487_00000_region_2 a ex:Text ;
+    ex:hasBBox "[96.3, 244.58, 409.91, 57.17]" .
+
+ex:PMC5326487_00000_region_3 a ex:Text ;
+    ex:hasBBox "[128.52, 216.78, 340.39, 16.09]" .
+
+ex:PMC5326487_00000_region_4 a ex:Title ;
+    ex:hasBBox "[92.1, 147.09, 416.66, 58.21]" .
+
+ex:PMC5326487_00000_region_5 a ex:Title ;
+    ex:hasBBox "[259.56, 321.97, 79.26, 19.08]" .
+
+ex:PMC5429906_00004_region_0 a ex:Text ;
+    ex:hasBBox "[51.02, 343.46, 238.1, 148.16]" .
+
+ex:PMC5429906_00004_region_1 a ex:Text ;
+    ex:hasBBox "[51.02, 530.56, 238.07, 98.13]" .
+
+ex:PMC5429906_00004_region_10 a ex:Title ;
+    ex:hasBBox "[51.02, 653.88, 33.63, 12.44]" .
+
+ex:PMC5429906_00004_region_2 a ex:Text ;
+    ex:hasBBox "[306.14, 343.61, 238.09, 148.01]" .
+
+ex:PMC5429906_00004_region_3 a ex:Text ;
+    ex:hasBBox "[51.02, 680.14, 238.1, 35.93]" .
+
+ex:PMC5429906_00004_region_4 a ex:Text ;
+    ex:hasBBox "[306.14, 492.83, 238.11, 135.76]" .
+
+ex:PMC5429906_00004_region_5 a ex:Text ;
+    ex:hasBBox "[306.14, 630.07, 238.08, 48.29]" .
+
+ex:PMC5429906_00004_region_6 a ex:Text ;
+    ex:hasBBox "[306.14, 679.85, 238.06, 35.88]" .
+
+ex:PMC5429906_00004_region_7 a ex:Text ;
+    ex:hasBBox "[51.02, 56.06, 122.37, 9.58]" .
+
+ex:PMC5429906_00004_region_8 a ex:Table ;
+    ex:hasBBox "[51.02, 69.64, 493.25, 242.42]" .
+
+ex:PMC5429906_00004_region_9 a ex:Title ;
+    ex:hasBBox "[51.02, 505.77, 57.28, 10.79]" .
+
+ex:PMC5436402_00001_region_0 a ex:Text ;
+    ex:hasBBox "[42.52, 78.03, 243.22, 168.79]" .
+
+ex:PMC5436402_00001_region_1 a ex:Text ;
+    ex:hasBBox "[42.52, 260.08, 243.22, 132.35]" .
+
+ex:PMC5436402_00001_region_10 a ex:Title ;
+    ex:hasBBox "[311.81, 130.72, 108.34, 15.32]" .
+
+ex:PMC5436402_00001_region_11 a ex:Title ;
+    ex:hasBBox "[311.81, 199.72, 63.48, 15.32]" .
+
+ex:PMC5436402_00001_region_12 a ex:Title ;
+    ex:hasBBox "[311.81, 376.72, 87.79, 15.32]" .
+
+ex:PMC5436402_00001_region_2 a ex:Text ;
+    ex:hasBBox "[42.52, 405.68, 243.22, 132.35]" .
+
+ex:PMC5436402_00001_region_3 a ex:Text ;
+    ex:hasBBox "[42.52, 551.29, 243.21, 193.08]" .
+
+ex:PMC5436402_00001_region_4 a ex:Text ;
+    ex:hasBBox "[311.81, 78.03, 243.23, 22.89]" .
+
+ex:PMC5436402_00001_region_5 a ex:Text ;
+    ex:hasBBox "[42.52, 757.62, 243.19, 23.04]" .
+
+ex:PMC5436402_00001_region_6 a ex:Text ;
+    ex:hasBBox "[311.81, 150.03, 243.21, 34.89]" .
+
+ex:PMC5436402_00001_region_7 a ex:Text ;
+    ex:hasBBox "[311.81, 219.03, 243.23, 142.89]" .
+
+ex:PMC5436402_00001_region_8 a ex:Text ;
+    ex:hasBBox "[311.81, 396.03, 243.22, 384.63]" .
+
+ex:PMC5436402_00001_region_9 a ex:Title ;
+    ex:hasBBox "[311.81, 110.84, 59.66, 20.43]" .
+
+ex:PMC5462463_00004_region_0 a ex:Text ;
+    ex:hasBBox "[150.0, 61.41, 373.65, 137.16]" .
+
+ex:PMC5462463_00004_region_1 a ex:Text ;
+    ex:hasBBox "[150.0, 231.41, 373.7, 277.16]" .
+
+ex:PMC5462463_00004_region_2 a ex:Text ;
+    ex:hasBBox "[150.0, 521.41, 369.78, 109.16]" .
+
+ex:PMC5462463_00004_region_3 a ex:Text ;
+    ex:hasBBox "[150.0, 663.41, 364.32, 25.16]" .
+
+ex:PMC5462463_00004_region_4 a ex:Title ;
+    ex:hasBBox "[90.0, 212.84, 243.89, 11.9]" .
+
+ex:PMC5462463_00004_region_5 a ex:Title ;
+    ex:hasBBox "[90.0, 644.84, 142.49, 11.9]" .
+
+ex:PMC5467671_00004_region_0 a ex:Text ;
+    ex:hasBBox "[48.0, 216.16, 240.08, 175.04]" .
+
+ex:PMC5467671_00004_region_1 a ex:Text ;
+    ex:hasBBox "[48.0, 421.72, 240.07, 76.48]" .
+
+ex:PMC5467671_00004_region_10 a ex:Table ;
+    ex:hasBBox "[48.0, 629.0, 240.0, 91.75]" .
+
+ex:PMC5467671_00004_region_11 a ex:Title ;
+    ex:hasBBox "[48.0, 403.77, 31.11, 11.53]" .
+
+ex:PMC5467671_00004_region_12 a ex:Title ;
+    ex:hasBBox "[48.0, 74.91, 27.99, 10.04]" .
+
+ex:PMC5467671_00004_region_13 a ex:Title ;
+    ex:hasBBox "[48.0, 593.41, 27.99, 10.04]" .
+
+ex:PMC5467671_00004_region_2 a ex:Text ;
+    ex:hasBBox "[306.0, 216.16, 240.06, 89.08]" .
+
+ex:PMC5467671_00004_region_3 a ex:Text ;
+    ex:hasBBox "[48.0, 498.72, 240.06, 76.48]" .
+
+ex:PMC5467671_00004_region_4 a ex:Text ;
+    ex:hasBBox "[306.0, 305.35, 240.07, 245.78]" .
+
+ex:PMC5467671_00004_region_5 a ex:Text ;
+    ex:hasBBox "[306.0, 552.28, 240.06, 133.77]" .
+
+ex:PMC5467671_00004_region_6 a ex:Text ;
+    ex:hasBBox "[306.0, 704.73, 240.02, 18.0]" .
+
+ex:PMC5467671_00004_region_7 a ex:Text ;
+    ex:hasBBox "[48.0, 85.94, 139.47, 9.9]" .
+
+ex:PMC5467671_00004_region_8 a ex:Text ;
+    ex:hasBBox "[48.0, 604.44, 238.44, 20.9]" .
+
+ex:PMC5467671_00004_region_9 a ex:Table ;
+    ex:hasBBox "[48.0, 99.5, 498.0, 96.25]" .
+
+ex:PMC5498817_00003_region_0 a ex:Text ;
+    ex:hasBBox "[85.21, 62.61, 212.11, 85.25]" .
+
+ex:PMC5498817_00003_region_1 a ex:Text ;
+    ex:hasBBox "[85.21, 189.09, 212.12, 85.31]" .
+
+ex:PMC5498817_00003_region_10 a ex:Figure ;
+    ex:hasBBox "[85.21, 560.54, 212.38, 144.23]" .
+
+ex:PMC5498817_00003_region_11 a ex:Title ;
+    ex:hasBBox "[85.21, 164.1, 45.99, 10.67]" .
+
+ex:PMC5498817_00003_region_12 a ex:Title ;
+    ex:hasBBox "[311.7, 312.57, 65.28, 10.67]" .
+
+ex:PMC5498817_00003_region_2 a ex:Text ;
+    ex:hasBBox "[85.21, 276.62, 212.1, 210.26]" .
+
+ex:PMC5498817_00003_region_3 a ex:Text ;
+    ex:hasBBox "[311.7, 62.6, 212.1, 147.78]" .
+
+ex:PMC5498817_00003_region_4 a ex:Text ;
+    ex:hasBBox "[85.21, 489.11, 212.07, 60.31]" .
+
+ex:PMC5498817_00003_region_5 a ex:Text ;
+    ex:hasBBox "[311.7, 212.55, 212.03, 72.84]" .
+
+ex:PMC5498817_00003_region_6 a ex:Text ;
+    ex:hasBBox "[311.7, 337.56, 212.12, 122.84]" .
+
+ex:PMC5498817_00003_region_7 a ex:Text ;
+    ex:hasBBox "[311.7, 462.29, 212.09, 148.11]" .
+
+ex:PMC5498817_00003_region_8 a ex:Text ;
+    ex:hasBBox "[311.7, 612.29, 212.08, 123.06]" .
+
+ex:PMC5498817_00003_region_9 a ex:Text ;
+    ex:hasBBox "[85.21, 715.07, 212.09, 20.45]" .
+
+ex:PMC5512827_00007_region_0 a ex:Text ;
+    ex:hasBBox "[56.69, 134.92, 233.84, 166.93]" .
+
+ex:PMC5512827_00007_region_1 a ex:Text ;
+    ex:hasBBox "[56.69, 312.81, 233.82, 85.02]" .
+
+ex:PMC5512827_00007_region_10 a ex:Title ;
+    ex:hasBBox "[304.72, 590.97, 59.85, 10.44]" .
+
+ex:PMC5512827_00007_region_2 a ex:Text ;
+    ex:hasBBox "[56.69, 408.28, 233.92, 133.54]" .
+
+ex:PMC5512827_00007_region_3 a ex:Text ;
+    ex:hasBBox "[304.72, 86.95, 233.84, 118.91]" .
+
+ex:PMC5512827_00007_region_4 a ex:Text ;
+    ex:hasBBox "[56.69, 566.92, 233.87, 166.93]" .
+
+ex:PMC5512827_00007_region_5 a ex:Text ;
+    ex:hasBBox "[304.72, 230.96, 233.92, 346.87]" .
+
+ex:PMC5512827_00007_region_6 a ex:Text ;
+    ex:hasBBox "[304.72, 602.92, 233.93, 130.93]" .
+
+ex:PMC5512827_00007_region_7 a ex:List ;
+    ex:hasBBox "[76.31, 87.0, 208.25, 34.9]" .
+
+ex:PMC5512827_00007_region_8 a ex:Title ;
+    ex:hasBBox "[56.69, 554.97, 204.72, 10.44]" .
+
+ex:PMC5512827_00007_region_9 a ex:Title ;
+    ex:hasBBox "[304.72, 218.95, 42.82, 10.44]" .
+
+ex:PMC5575505_00000_region_0 a ex:Text ;
+    ex:hasBBox "[308.64, 208.72, 227.7, 93.19]" .
+
+ex:PMC5575505_00000_region_1 a ex:Text ;
+    ex:hasBBox "[56.98, 418.43, 227.7, 248.87]" .
+
+ex:PMC5575505_00000_region_10 a ex:Title ;
+    ex:hasBBox "[308.64, 334.41, 183.24, 20.17]" .
+
+ex:PMC5575505_00000_region_2 a ex:Text ;
+    ex:hasBBox "[308.64, 363.74, 227.69, 177.38]" .
+
+ex:PMC5575505_00000_region_3 a ex:Text ;
+    ex:hasBBox "[308.64, 544.25, 227.76, 165.42]" .
+
+ex:PMC5575505_00000_region_4 a ex:Text ;
+    ex:hasBBox "[56.58, 719.34, 439.51, 8.04]" .
+
+ex:PMC5575505_00000_region_5 a ex:Text ;
+    ex:hasBBox "[56.98, 728.49, 457.38, 16.92]" .
+
+ex:PMC5575505_00000_region_6 a ex:Text ;
+    ex:hasBBox "[56.98, 241.92, 227.7, 132.2]" .
+
+ex:PMC5575505_00000_region_7 a ex:Text ;
+    ex:hasBBox "[56.98, 208.17, 134.29, 9.45]" .
+
+ex:PMC5575505_00000_region_8 a ex:Title ;
+    ex:hasBBox "[56.98, 121.79, 414.23, 38.08]" .
+
+ex:PMC5575505_00000_region_9 a ex:Title ;
+    ex:hasBBox "[56.98, 400.46, 40.85, 8.89]" .
+
+ex:PMC5579150_00007_region_0 a ex:Text ;
+    ex:hasBBox "[46.77, 83.85, 345.84, 77.64]" .
+
+ex:PMC5579150_00007_region_1 a ex:Text ;
+    ex:hasBBox "[58.11, 169.79, 323.17, 100.49]" .
+
+ex:PMC5579150_00007_region_2 a ex:Text ;
+    ex:hasBBox "[46.77, 307.27, 345.83, 31.77]" .
+
+ex:PMC5579150_00007_region_3 a ex:Text ;
+    ex:hasBBox "[46.77, 376.04, 345.83, 43.22]" .
+
+ex:PMC5579150_00007_region_4 a ex:Text ;
+    ex:hasBBox "[58.11, 427.58, 323.12, 20.32]" .
+
+ex:PMC5579150_00007_region_5 a ex:Text ;
+    ex:hasBBox "[46.77, 472.4, 345.88, 16.84]" .
+
+ex:PMC5579150_00007_region_6 a ex:Table ;
+    ex:hasBBox "[46.77, 493.24, 345.83, 102.1]" .
+
+ex:PMC5579150_00007_region_7 a ex:Title ;
+    ex:hasBBox "[46.77, 58.6, 247.01, 10.84]" .
+
+ex:PMC5579150_00007_region_8 a ex:Title ;
+    ex:hasBBox "[46.77, 283.37, 97.02, 9.85]" .
+
+ex:PMC5579150_00007_region_9 a ex:Title ;
+    ex:hasBBox "[46.77, 352.6, 83.92, 9.33]" .
+
+ex:PMC5580807_00019_region_0 a ex:Text ;
+    ex:hasBBox "[149.29, 61.41, 373.82, 81.16]" .
+
+ex:PMC5588948_00002_region_0 a ex:Text ;
+    ex:hasBBox "[44.5, 52.08, 439.78, 10.6]" .
+
+ex:PMC5588948_00002_region_1 a ex:Table ;
+    ex:hasBBox "[40.34, 64.98, 516.64, 691.69]" .
+
+ex:PMC5592712_00002_region_0 a ex:Text ;
+    ex:hasBBox "[56.69, 84.88, 236.16, 28.4]" .
+
+ex:PMC5592712_00002_region_1 a ex:Text ;
+    ex:hasBBox "[56.69, 110.75, 236.18, 74.52]" .
+
+ex:PMC5592712_00002_region_10 a ex:Text ;
+    ex:hasBBox "[304.72, 266.59, 236.19, 98.55]" .
+
+ex:PMC5592712_00002_region_11 a ex:Text ;
+    ex:hasBBox "[304.72, 362.6, 236.17, 50.54]" .
+
+ex:PMC5592712_00002_region_12 a ex:Text ;
+    ex:hasBBox "[304.72, 434.61, 236.18, 86.53]" .
+
+ex:PMC5592712_00002_region_13 a ex:Text ;
+    ex:hasBBox "[304.72, 542.61, 236.18, 38.52]" .
+
+ex:PMC5592712_00002_region_14 a ex:Text ;
+    ex:hasBBox "[56.69, 612.57, 353.26, 11.15]" .
+
+ex:PMC5592712_00002_region_15 a ex:Table ;
+    ex:hasBBox "[56.69, 628.07, 481.89, 96.23]" .
+
+ex:PMC5592712_00002_region_16 a ex:Title ;
+    ex:hasBBox "[56.69, 231.12, 70.09, 11.24]" .
+
+ex:PMC5592712_00002_region_17 a ex:Title ;
+    ex:hasBBox "[56.69, 447.12, 91.13, 11.24]" .
+
+ex:PMC5592712_00002_region_18 a ex:Title ;
+    ex:hasBBox "[304.72, 422.98, 40.57, 11.24]" .
+
+ex:PMC5592712_00002_region_19 a ex:Title ;
+    ex:hasBBox "[304.72, 529.73, 33.1, 12.76]" .
+
+ex:PMC5592712_00002_region_2 a ex:Text ;
+    ex:hasBBox "[56.69, 182.73, 236.16, 38.56]" .
+
+ex:PMC5592712_00002_region_3 a ex:Text ;
+    ex:hasBBox "[56.69, 242.76, 236.19, 74.53]" .
+
+ex:PMC5592712_00002_region_4 a ex:Text ;
+    ex:hasBBox "[56.59, 314.75, 236.29, 122.54]" .
+
+ex:PMC5592712_00002_region_5 a ex:Text ;
+    ex:hasBBox "[56.69, 458.76, 236.19, 38.52]" .
+
+ex:PMC5592712_00002_region_6 a ex:Text ;
+    ex:hasBBox "[56.69, 494.74, 236.16, 50.54]" .
+
+ex:PMC5592712_00002_region_7 a ex:Text ;
+    ex:hasBBox "[56.69, 542.75, 236.18, 38.54]" .
+
+ex:PMC5592712_00002_region_8 a ex:Text ;
+    ex:hasBBox "[304.72, 86.61, 236.19, 74.54]" .
+
+ex:PMC5592712_00002_region_9 a ex:Text ;
+    ex:hasBBox "[304.72, 158.6, 236.17, 110.52]" .
+
+ex:PMC5605591_00000_region_0 a ex:Text ;
+    ex:hasBBox "[51.02, 279.68, 240.64, 277.75]" .
+
+ex:PMC5605591_00000_region_1 a ex:Text ;
+    ex:hasBBox "[51.02, 567.17, 217.96, 27.75]" .
+
+ex:PMC5605591_00000_region_2 a ex:Text ;
+    ex:hasBBox "[306.14, 305.59, 240.65, 77.59]" .
+
+ex:PMC5605591_00000_region_3 a ex:Text ;
+    ex:hasBBox "[306.14, 380.59, 240.64, 77.59]" .
+
+ex:PMC5605591_00000_region_4 a ex:Text ;
+    ex:hasBBox "[306.14, 505.59, 240.63, 115.09]" .
+
+ex:PMC5605591_00000_region_5 a ex:Text ;
+    ex:hasBBox "[306.14, 618.09, 240.64, 102.59]" .
+
+ex:PMC5605591_00000_region_6 a ex:Text ;
+    ex:hasBBox "[51.02, 154.89, 336.35, 28.8]" .
+
+ex:PMC5605591_00000_region_7 a ex:Title ;
+    ex:hasBBox "[51.02, 101.5, 440.81, 43.71]" .
+
+ex:PMC5605591_00000_region_8 a ex:Title ;
+    ex:hasBBox "[306.14, 279.21, 56.23, 17.68]" .
+
+ex:PMC5605591_00000_region_9 a ex:Title ;
+    ex:hasBBox "[306.14, 479.21, 59.76, 17.68]" .
+
+ex:PMC5613853_00002_region_0 a ex:Text ;
+    ex:hasBBox "[48.98, 102.81, 251.05, 33.15]" .
+
+ex:PMC5613853_00002_region_1 a ex:Text ;
+    ex:hasBBox "[311.98, 70.61, 250.98, 21.19]" .
+
+ex:PMC5613853_00002_region_2 a ex:Text ;
+    ex:hasBBox "[48.98, 178.21, 251.09, 559.15]" .
+
+ex:PMC5613853_00002_region_3 a ex:Text ;
+    ex:hasBBox "[311.98, 130.36, 251.13, 332.03]" .
+
+ex:PMC5613853_00002_region_4 a ex:Text ;
+    ex:hasBBox "[311.98, 500.96, 251.12, 236.39]" .
+
+ex:PMC5613853_00002_region_5 a ex:Title ;
+    ex:hasBBox "[48.98, 69.97, 215.8, 25.77]" .
+
+ex:PMC5613853_00002_region_6 a ex:Title ;
+    ex:hasBBox "[48.98, 159.26, 46.4, 11.82]" .
+
+ex:PMC5613853_00002_region_7 a ex:Title ;
+    ex:hasBBox "[311.98, 111.41, 88.97, 11.82]" .
+
+ex:PMC5613853_00002_region_8 a ex:Title ;
+    ex:hasBBox "[311.98, 482.01, 92.94, 11.82]" .
+
+ex:PMC5646182_00003_region_0 a ex:Text ;
+    ex:hasBBox "[60.0, 49.64, 375.7, 183.16]" .
+
+ex:PMC5646182_00003_region_1 a ex:Text ;
+    ex:hasBBox "[60.0, 231.62, 375.65, 118.18]" .
+
+ex:PMC5646182_00003_region_2 a ex:Text ;
+    ex:hasBBox "[59.99, 348.64, 375.67, 287.16]" .
+
+ex:PMC5706999_00003_region_0 a ex:Text ;
+    ex:hasBBox "[42.52, 92.79, 245.25, 286.82]" .
+
+ex:PMC5706999_00003_region_1 a ex:Text ;
+    ex:hasBBox "[42.52, 410.26, 245.24, 57.96]" .
+
+ex:PMC5706999_00003_region_10 a ex:Title ;
+    ex:hasBBox "[42.52, 574.88, 244.21, 24.42]" .
+
+ex:PMC5706999_00003_region_11 a ex:Title ;
+    ex:hasBBox "[304.67, 666.95, 214.71, 24.36]" .
+
+ex:PMC5706999_00003_region_2 a ex:Text ;
+    ex:hasBBox "[42.52, 499.28, 245.25, 46.16]" .
+
+ex:PMC5706999_00003_region_3 a ex:Text ;
+    ex:hasBBox "[42.52, 607.56, 245.26, 160.8]" .
+
+ex:PMC5706999_00003_region_4 a ex:Text ;
+    ex:hasBBox "[304.67, 699.63, 245.26, 69.07]" .
+
+ex:PMC5706999_00003_region_5 a ex:Text ;
+    ex:hasBBox "[304.67, 471.65, 245.28, 178.12]" .
+
+ex:PMC5706999_00003_region_6 a ex:Figure ;
+    ex:hasBBox "[305.4, 95.79, 243.92, 371.17]" .
+
+ex:PMC5706999_00003_region_7 a ex:Title ;
+    ex:hasBBox "[42.52, 389.89, 110.15, 12.45]" .
+
+ex:PMC5706999_00003_region_8 a ex:Title ;
+    ex:hasBBox "[42.52, 478.56, 119.56, 12.45]" .
+
+ex:PMC5706999_00003_region_9 a ex:Title ;
+    ex:hasBBox "[42.52, 557.43, 51.72, 14.94]" .
+
+ex:PMC5733955_00001_region_0 a ex:Text ;
+    ex:hasBBox "[50.0, 72.55, 240.98, 92.44]" .
+
+ex:PMC5733955_00001_region_1 a ex:Text ;
+    ex:hasBBox "[50.01, 165.34, 240.98, 69.2]" .
+
+ex:PMC5733955_00001_region_10 a ex:List ;
+    ex:hasBBox "[65.03, 245.61, 212.57, 11.04]" .
+
+ex:PMC5733955_00001_region_11 a ex:List ;
+    ex:hasBBox "[64.99, 508.35, 139.41, 11.04]" .
+
+ex:PMC5733955_00001_region_12 a ex:List ;
+    ex:hasBBox "[324.0, 361.89, 129.02, 11.04]" .
+
+ex:PMC5733955_00001_region_13 a ex:List ;
+    ex:hasBBox "[323.99, 587.83, 112.41, 11.04]" .
+
+ex:PMC5733955_00001_region_2 a ex:Text ;
+    ex:hasBBox "[50.0, 265.11, 240.99, 127.7]" .
+
+ex:PMC5733955_00001_region_3 a ex:Text ;
+    ex:hasBBox "[49.97, 392.73, 240.99, 104.49]" .
+
+ex:PMC5733955_00001_region_4 a ex:Text ;
+    ex:hasBBox "[49.98, 527.84, 240.97, 171.16]" .
+
+ex:PMC5733955_00001_region_5 a ex:Text ;
+    ex:hasBBox "[308.94, 72.42, 241.04, 104.06]" .
+
+ex:PMC5733955_00001_region_6 a ex:Text ;
+    ex:hasBBox "[49.97, 698.91, 240.98, 45.64]" .
+
+ex:PMC5733955_00001_region_7 a ex:Text ;
+    ex:hasBBox "[308.97, 176.5, 241.03, 174.32]" .
+
+ex:PMC5733955_00001_region_8 a ex:Text ;
+    ex:hasBBox "[308.97, 381.4, 241.03, 195.48]" .
+
+ex:PMC5733955_00001_region_9 a ex:Text ;
+    ex:hasBBox "[308.97, 607.3, 241.14, 137.36]" .
+
+ex:PMC5745221_00001_region_0 a ex:Text ;
+    ex:hasBBox "[56.64, 88.86, 236.93, 130.91]" .
+
+ex:PMC5745221_00001_region_1 a ex:Text ;
+    ex:hasBBox "[304.85, 88.86, 236.92, 40.91]" .
+
+ex:PMC5745221_00001_region_2 a ex:Text ;
+    ex:hasBBox "[56.64, 223.86, 239.69, 520.98]" .
+
+ex:PMC5745221_00001_region_3 a ex:Text ;
+    ex:hasBBox "[304.85, 133.86, 236.93, 205.94]" .
+
+ex:PMC5745221_00001_region_4 a ex:Text ;
+    ex:hasBBox "[304.85, 373.89, 236.93, 370.95]" .
+
+ex:PMC5745221_00001_region_5 a ex:Title ;
+    ex:hasBBox "[316.13, 359.09, 157.85, 10.72]" .
+
+ex:PMC5763423_00016_region_0 a ex:Text ;
+    ex:hasBBox "[48.09, 402.95, 395.52, 23.48]" .
+
+ex:PMC5763423_00016_region_1 a ex:Text ;
+    ex:hasBBox "[48.09, 426.86, 395.52, 59.35]" .
+
+ex:PMC5763423_00016_region_2 a ex:Text ;
+    ex:hasBBox "[48.09, 486.63, 395.52, 71.3]" .
+
+ex:PMC5763423_00016_region_3 a ex:Text ;
+    ex:hasBBox "[48.09, 593.83, 395.52, 35.44]" .
+
+ex:PMC5763423_00016_region_4 a ex:Text ;
+    ex:hasBBox "[129.35, 56.93, 232.17, 27.74]" .
+
+ex:PMC5763423_00016_region_5 a ex:Text ;
+    ex:hasBBox "[130.18, 343.41, 231.33, 45.55]" .
+
+ex:PMC5763423_00016_region_6 a ex:Table ;
+    ex:hasBBox "[130.18, 92.2, 231.33, 249.86]" .
+
+ex:PMC5763423_00016_region_7 a ex:Title ;
+    ex:hasBBox "[48.09, 575.23, 71.42, 11.86]" .
+
+ex:PMC5870676_00001_region_0 a ex:Text ;
+    ex:hasBBox "[63.16, 59.15, 234.04, 73.98]" .
+
+ex:PMC5870676_00001_region_1 a ex:Text ;
+    ex:hasBBox "[63.16, 136.08, 234.04, 118.04]" .
+
+ex:PMC5870676_00001_region_10 a ex:Text ;
+    ex:hasBBox "[315.16, 631.24, 234.1, 106.98]" .
+
+ex:PMC5870676_00001_region_11 a ex:Title ;
+    ex:hasBBox "[63.16, 277.47, 84.27, 9.88]" .
+
+ex:PMC5870676_00001_region_12 a ex:Title ;
+    ex:hasBBox "[63.16, 293.95, 172.83, 9.18]" .
+
+ex:PMC5870676_00001_region_13 a ex:Title ;
+    ex:hasBBox "[63.16, 431.21, 76.63, 9.18]" .
+
+ex:PMC5870676_00001_region_14 a ex:Title ;
+    ex:hasBBox "[63.16, 557.52, 195.34, 21.2]" .
+
+ex:PMC5870676_00001_region_15 a ex:Title ;
+    ex:hasBBox "[63.16, 620.41, 136.89, 7.82]" .
+
+ex:PMC5870676_00001_region_16 a ex:Title ;
+    ex:hasBBox "[315.15, 95.1, 164.37, 7.82]" .
+
+ex:PMC5870676_00001_region_17 a ex:Title ;
+    ex:hasBBox "[315.16, 317.84, 113.12, 7.82]" .
+
+ex:PMC5870676_00001_region_18 a ex:Title ;
+    ex:hasBBox "[315.16, 472.99, 106.57, 9.18]" .
+
+ex:PMC5870676_00001_region_19 a ex:Title ;
+    ex:hasBBox "[315.16, 602.32, 43.04, 9.88]" .
+
+ex:PMC5870676_00001_region_2 a ex:Text ;
+    ex:hasBBox "[63.16, 306.39, 234.11, 107.03]" .
+
+ex:PMC5870676_00001_region_20 a ex:Title ;
+    ex:hasBBox "[315.16, 618.8, 89.89, 9.18]" .
+
+ex:PMC5870676_00001_region_3 a ex:Text ;
+    ex:hasBBox "[63.16, 443.7, 234.06, 95.98]" .
+
+ex:PMC5870676_00001_region_4 a ex:Text ;
+    ex:hasBBox "[63.16, 581.98, 234.04, 18.99]" .
+
+ex:PMC5870676_00001_region_5 a ex:Text ;
+    ex:hasBBox "[315.15, 59.16, 234.02, 18.99]" .
+
+ex:PMC5870676_00001_region_6 a ex:Text ;
+    ex:hasBBox "[63.16, 631.24, 234.07, 106.98]" .
+
+ex:PMC5870676_00001_region_7 a ex:Text ;
+    ex:hasBBox "[315.15, 105.93, 234.09, 194.96]" .
+
+ex:PMC5870676_00001_region_8 a ex:Text ;
+    ex:hasBBox "[315.16, 328.67, 234.06, 129.03]" .
+
+ex:PMC5870676_00001_region_9 a ex:Text ;
+    ex:hasBBox "[315.16, 485.49, 234.07, 95.98]" .
+
+ex:PMC5947618_00010_region_0 a ex:Text ;
+    ex:hasBBox "[45.64, 415.84, 504.0, 89.67]" .
+
+ex:PMC5947618_00010_region_1 a ex:Text ;
+    ex:hasBBox "[45.64, 566.88, 504.02, 180.66]" .
+
+ex:PMC5947618_00010_region_2 a ex:Text ;
+    ex:hasBBox "[45.64, 296.83, 499.44, 97.7]" .
+
+ex:PMC5947618_00010_region_3 a ex:Figure ;
+    ex:hasBBox "[127.5, 50.81, 340.33, 235.45]" .
+
+ex:PMC5947618_00010_region_4 a ex:Title ;
+    ex:hasBBox "[45.64, 541.27, 473.19, 12.26]" .
+
+ex:PMC5986835_00005_region_0 a ex:Text ;
+    ex:hasBBox "[51.02, 627.57, 240.74, 90.09]" .
+
+ex:PMC5986835_00005_region_1 a ex:Text ;
+    ex:hasBBox "[306.14, 627.57, 240.71, 40.09]" .
+
+ex:PMC5986835_00005_region_2 a ex:Text ;
+    ex:hasBBox "[306.13, 542.23, 240.24, 42.94]" .
+
+ex:PMC5986835_00005_region_3 a ex:Text ;
+    ex:hasBBox "[51.02, 542.14, 240.24, 53.61]" .
+
+ex:PMC5986835_00005_region_4 a ex:Figure ;
+    ex:hasBBox "[51.02, 45.21, 493.23, 482.48]" .
+
+ex:PMC6020783_00008_region_0 a ex:Text ;
+    ex:hasBBox "[44.83, 63.46, 245.35, 66.47]" .
+
+ex:PMC6020783_00008_region_1 a ex:Text ;
+    ex:hasBBox "[44.83, 132.2, 245.34, 77.92]" .
+
+ex:PMC6020783_00008_region_10 a ex:Text ;
+    ex:hasBBox "[305.11, 647.76, 245.34, 66.46]" .
+
+ex:PMC6020783_00008_region_11 a ex:Title ;
+    ex:hasBBox "[305.11, 172.88, 212.07, 11.96]" .
+
+ex:PMC6020783_00008_region_2 a ex:Text ;
+    ex:hasBBox "[44.83, 212.4, 245.34, 89.38]" .
+
+ex:PMC6020783_00008_region_3 a ex:Text ;
+    ex:hasBBox "[44.83, 304.05, 245.35, 181.04]" .
+
+ex:PMC6020783_00008_region_4 a ex:Text ;
+    ex:hasBBox "[44.83, 487.37, 245.34, 123.75]" .
+
+ex:PMC6020783_00008_region_5 a ex:Text ;
+    ex:hasBBox "[305.11, 63.46, 245.34, 100.84]" .
+
+ex:PMC6020783_00008_region_6 a ex:Text ;
+    ex:hasBBox "[44.83, 613.33, 245.35, 100.9]" .
+
+ex:PMC6020783_00008_region_7 a ex:Text ;
+    ex:hasBBox "[305.11, 187.09, 245.34, 181.04]" .
+
+ex:PMC6020783_00008_region_8 a ex:Text ;
+    ex:hasBBox "[305.11, 370.4, 245.35, 146.67]" .
+
+ex:PMC6020783_00008_region_9 a ex:Text ;
+    ex:hasBBox "[305.11, 579.02, 245.35, 66.47]" .
+
+ex:PMC6035002_00013_region_0 a ex:Text ;
+    ex:hasBBox "[78.0, 97.41, 299.67, 11.16]" .
+
+ex:PMC6035002_00013_region_1 a ex:Table ;
+    ex:hasBBox "[78.0, 120.0, 214.91, 65.0]" .
+
+ex:PMC6035002_00013_region_2 a ex:Title ;
+    ex:hasBBox "[284.9, 79.46, 30.2, 10.71]" .
+
+ex:PMC6061470_00004_region_0 a ex:Text ;
+    ex:hasBBox "[51.02, 57.35, 238.13, 39.29]" .
+
+ex:PMC6061470_00004_region_1 a ex:Text ;
+    ex:hasBBox "[306.14, 57.59, 238.12, 29.12]" .
+
+ex:PMC6061470_00004_region_2 a ex:Table ;
+    ex:hasBBox "[182.97, 101.46, 229.38, 587.61]" .
+
+ex:PMC6104654_00002_region_0 a ex:Text ;
+    ex:hasBBox "[150.0, 61.41, 373.22, 263.16]" .
+
+ex:PMC6104654_00002_region_1 a ex:Text ;
+    ex:hasBBox "[150.0, 337.41, 373.32, 207.16]" .
+
+ex:PMC6104654_00002_region_2 a ex:Text ;
+    ex:hasBBox "[150.0, 583.41, 374.12, 109.16]" .
+
+ex:PMC6104654_00002_region_3 a ex:Title ;
+    ex:hasBBox "[90.0, 560.61, 291.43, 14.28]" .
+

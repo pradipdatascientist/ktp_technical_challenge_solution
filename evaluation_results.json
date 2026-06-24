@@ -1,0 +1,54 @@
+[
+    {
+        "query": "Find documents with many figures",
+        "baseline": {
+            "time": 0.009714365005493164,
+            "num_results": 3
+        },
+        "enhanced": {
+            "time": 0.0527796745300293,
+            "num_text_results": 3,
+            "num_image_results": 3,
+            "num_kg_facts": 0
+        }
+    },
+    {
+        "query": "Which papers mention tables?",
+        "baseline": {
+            "time": 0.010536909103393555,
+            "num_results": 3
+        },
+        "enhanced": {
+            "time": 0.04970407485961914,
+            "num_text_results": 3,
+            "num_image_results": 3,
+            "num_kg_facts": 0
+        }
+    },
+    {
+        "query": "Show me documents with titles",
+        "baseline": {
+            "time": 0.008085012435913086,
+            "num_results": 3
+        },
+        "enhanced": {
+            "time": 0.047469377517700195,
+            "num_text_results": 3,
+            "num_image_results": 3,
+            "num_kg_facts": 5
+        }
+    },
+    {
+        "query": "Are there any lists in the data?",
+        "baseline": {
+            "time": 0.009654998779296875,
+            "num_results": 3
+        },
+        "enhanced": {
+            "time": 0.04909014701843262,
+            "num_text_results": 3,
+            "num_image_results": 3,
+            "num_kg_facts": 5
+        }
+    }
+]
